@@ -38,7 +38,7 @@ To make text strikethrough ~~double tilde~~
 \
 # Some text to practice
 \
-The *Perkinsus marinus* spatial proteome has so far displayed **22 unique clusters**. This is the `code` used to analyse the data. 
+ This is the `code` used to analyse the data. 
 \
 \
 # Line breaks 
@@ -51,8 +51,7 @@ Link to a webpage [Link to shared document (https://www.nature.com/news/1-500-sc
 
 Link to headings [here](#heading1) 
 
-\
-\
+
 # Footnotes
 \
 To indicate a footnote use [^1] and second footnote [^2]
